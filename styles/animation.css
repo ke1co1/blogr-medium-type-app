@@ -1,5 +1,5 @@
 .animation {
-  animation: myAnim 4s ease 0s 1 normal forwards;
+  animation: myAnim 6s ease 0s 1 normal forwards;
 }
 
 @keyframes myAnim {
